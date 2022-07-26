@@ -4173,6 +4173,7 @@ body .search-modal .close:hover {
   font-weight: 400;
   line-height: 30px;
   margin: 0 0 40px;
+  max-width: 600px;
 }
 .rs-slider.rs-slider-style2.rs-slider-style3 .container .content-part .sl-title {
   font-size: 90px;
